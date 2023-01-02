@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="https://demux.in/images/hire/codingGuy.svg" width="100"/>
+  <img src="https://demux.in/images/hire/codingGuy.svg" width="150"/>
 </div>
 
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&logo=&#xf0ac;&logoColor=white" alt="Portfolio Badge"/>
+  <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&logoColor=white" alt="Portfolio"/>
 </div>
 <!--
 **Andrea-Agosta/Andrea-Agosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
