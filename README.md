@@ -55,7 +55,6 @@ I am a Consultant full Stack Developer <img src="https://media.giphy.com/media/W
 
 ### :fire: My Stats :
 <div>
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andrea-Agosta&theme=highcontrast)](https://git.io/streak-stats) 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea-Agosta&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="160em" src='http://github-readme-streak-stats.herokuapp.com?user=Andrea-Agosta&theme=highcontrast' />
+  <img height="160em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea-Agosta&layout=compact&theme=vision-friendly-dark' />
 </div>
