@@ -54,7 +54,7 @@ I am a Consultant full Stack Developer <img src="https://media.giphy.com/media/W
 <hr style='background-color: gray;'>
 
 ### :fire: My Stats :
-<div>
+<div align="center">
   <img height="160em" src='http://github-readme-streak-stats.herokuapp.com?user=Andrea-Agosta&theme=highcontrast' />
   <img height="160em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea-Agosta&layout=compact&theme=vision-friendly-dark' />
 </div>
