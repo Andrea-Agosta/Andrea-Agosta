@@ -1,9 +1,6 @@
 <div id="header" align="center">
-  <!-- <img src="https://demux.in/images/hire/codingGuy.svg" width="200"/> -->
-  <img src="https://media.licdn.com/dms/image/D4D16AQGx0AFW-l__gw/profile-displaybackgroundimage-shrink_350_1400/0/1682059797937?e=1687996800&v=beta&t=50S11sIwXH7SMtv3OVVqI-ARO_HiFe13FKA3CH0p_T4"/>
-
-  <br>
-  <br>
+  <img src="https://demux.in/images/hire/codingGuy.svg" width="200"/>
+  
   <h3>
     Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
